@@ -1,0 +1,3 @@
+[submodule "lart_msgs"]
+	path = lart_msgs
+	url = https://github.com/FSLART/lart_msgs

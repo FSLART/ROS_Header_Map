@@ -25,7 +25,6 @@ enum critical_as_mission {
     AUTOCROSS=6,
     UNKNOWN_MISSION
 };
-
 template<typename T>
 class wrapper_int8{
 	public: 
